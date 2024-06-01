@@ -25,3 +25,7 @@ python examples/bedrock_boto3.py
 python examples/bedrock_langchain.py
 python examples/bedrock_langchain_structured.py
 ```
+
+```sh
+python examples/bedrock_instructor.py
+```
